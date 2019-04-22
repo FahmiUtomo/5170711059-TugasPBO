@@ -1,0 +1,5 @@
+>Membuat pemrograman dengan class utamanya yaitu tugas pengganti
+>Didalam class utama terdapat class pewarisnya yaitu manusia
+>terdapat subclass manusia yaitu orang indonesia dan orang luar
+>overriding dan protected terdapat di clas pewaris manusia dan subclass orang indonesia dan orang luar
+>overridingnya yaitu identitas dan protectednya yaitu kelahiran
